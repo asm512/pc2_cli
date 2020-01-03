@@ -1,0 +1,14 @@
+[data]
+name=Citroen DS3
+version=1.00
+author=na
+model=na
+moddir=Citroen DS3 Racing '11 PC2 (V1.00)
+parentdir=Citroen DS3 Racing '11 PC2 (V1.00)
+durl=https://x0.at/lKA.7z
+copyRoot=True
+vehlist=vehicles\CIT_DS3R_11\@CIT_DS3R_11.crd
+driveline=RECORD FWD_H-PATTERN_SYNCHRO_MEDIUM_MEDIUM_CIT_DS3R_11 l_driveline
+	name "CIT_DS3R_11"
+	contents FWD_H-PATTERN_SYNCHRO_MEDIUM_MEDIUM
+	dl:minhz 3000
